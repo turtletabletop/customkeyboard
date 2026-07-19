@@ -9,7 +9,7 @@ hotswappable keys are nice for testing future switches
 - https://jlcpcb.com/partdetail/Kailh-CPG151101S111/C5184526
 - kalih == cherry mx switches standard
 
-purple and pink case would be sick, with blue pcb
+purple and pink case, with blue pcb, lavender keycaps
 
 figure out how to get pcb with traces so that I can tell where the pcb art is gonna be
 
@@ -19,6 +19,7 @@ figure out how to get pcb with traces so that I can tell where the pcb art is go
 ### switches/keycap wants for the "first" iteration:
 - **silent** "creamy" linear switches would be ideal
 - 45 (gf) gram force similar to what a midi offers
+- lavender keycaps
 
 Order from JLCPCB because they can assemble the PCB with the parts soldered on for me
 
