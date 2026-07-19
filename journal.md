@@ -35,3 +35,5 @@ Order from JLCPCB because they can assemble the PCB with the parts soldered on f
 - start looking at qmk
 
 ## Day 2 (July 19, 2026)
+decided I should go with the kit parts except for the keycaps (i really want colored keycaps)
+time to rewire a lot of stuff
