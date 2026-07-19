@@ -13,6 +13,7 @@ note that I want the keys to be hotswappable now so I need to change the configu
 hotswappable keys are nice for testing future switches
 - https://jlcpcb.com/partdetail/Kailh-CPG151101S111/C5184526
 - kalih == cherry mx switches standard
+- https://github.com/AcheronProject/acheron_MXH.pretty (footprint?)
 
 purple and pink case, with blue pcb, lavender keycaps
 
