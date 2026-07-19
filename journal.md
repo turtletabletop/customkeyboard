@@ -1,7 +1,11 @@
 ## Day 1 (July 18, 2026)
 
+mainly followed scottokeebs's guide for the most part and was able to:
 - assembled the first draft of the PCB for the keyboard
+
+not finalized yet!
 - made a rudimentary case for the PCB
+<small>does not look good<small>
 
 ### design considerations:
 note that I want the keys to be hotswappable now so I need to change the configuration and figure out which mounts are needed
