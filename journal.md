@@ -9,7 +9,7 @@ hotswappable keys are nice for testing future switches
 - https://jlcpcb.com/partdetail/Kailh-CPG151101S111/C5184526
 - kalih == cherry mx switches standard
 
-purple and pink case would be sick
+purple and pink case would be sick, with blue pcb
 
 figure out how to get pcb with traces so that I can tell where the pcb art is gonna be
 
