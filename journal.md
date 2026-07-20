@@ -70,5 +70,6 @@ speaking of cases: that's really what I need to work on today!
 I found out by searching that there are many different ways of mounting your PCB to your case: important link here- https://shop.marvo-tech.com/blogs/all/custom-mechanical-keyboards-parts
 
 here's a tldr for that page-- they have a cheat sheet right here
+
 <img width="535" height="444" alt="image" src="https://github.com/user-attachments/assets/ca11f0e0-80cb-4e55-9d91-ec43415c4e5d" />
 
