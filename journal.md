@@ -45,4 +45,10 @@ I decided not to go with under keycap LEDS because they'd take too long to figur
 
 ideally: https://milktooth.com/products/milky-pro-silent-linear
 
+no way i have to add holes for the screws i forgot :(
+
+values for later:
+- -6.187494 in x
+- 3.093757 in y
+
 
