@@ -53,7 +53,10 @@ values for later:
 
 ## misc links for days 1-2 because i forgot
 - https://github.com/AcheronProject/acheron_MXH.pretty 
-although 
+
+although this does provide the footprint for kailh mx-style sockets, it doesn't provide you with the 3d model which I had to find on my own. Originally I found it through some shady ahh website here: https://www.snapeda.com/parts/PG151101S11/Kailh/view-part/?company=hack+club& **but I realized after I inserted the 3d model that the scottokeebs library i downloaded already has the model**
+
+Note that for both the website and the scottokeebs library the models need to be manually aligned inside kicad
 
 
 ## Day 3 (July 20, 2026)
@@ -78,4 +81,4 @@ here's a tldr for that page-- they have a cheat sheet right here
 
 <img width="535" height="444" alt="image" src="https://github.com/user-attachments/assets/ca11f0e0-80cb-4e55-9d91-ec43415c4e5d" />
 
-I've seen the keyword sandwich mount before in the hackpad channel so that's the one I'm going for, also I found this scottokeebs video so i'm definitely going to watch it
+I've seen the keyword sandwich mount before in the hackpad channel so that's the one I'm going for, also I found scottokeebs video on making cases and mounting plates so i'm definitely going to watch it
