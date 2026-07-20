@@ -82,3 +82,5 @@ here's a tldr for that page-- they have a cheat sheet right here
 <img width="535" height="444" alt="image" src="https://github.com/user-attachments/assets/ca11f0e0-80cb-4e55-9d91-ec43415c4e5d" />
 
 I've seen the keyword sandwich mount before in the hackpad channel so that's the one I'm going for, also I found scottokeebs video on making cases and mounting plates so i'm definitely going to watch it
+
+i found this mounting plate site during my math lecture: https://builder-docs.swillkb.com/
