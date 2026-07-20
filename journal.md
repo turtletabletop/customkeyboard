@@ -83,4 +83,5 @@ here's a tldr for that page-- they have a cheat sheet right here
 
 I've seen the keyword sandwich mount before in the hackpad channel so that's the one I'm going for, also I found scottokeebs video on making cases and mounting plates so i'm definitely going to watch it
 
+edit: this before the next link- https://www.keyboard-layout-editor.com/#/
 i found this mounting plate site during my math lecture: https://builder-docs.swillkb.com/
