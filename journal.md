@@ -86,3 +86,5 @@ I've seen the keyword sandwich mount before in the hackpad channel so that's the
 edit: this before the next link- https://www.keyboard-layout-editor.com/#/
 
 i found this mounting plate site during my math lecture: https://builder-docs.swillkb.com/
+
+so like it turns out i don't actually need the screws in the pcb so darn.
