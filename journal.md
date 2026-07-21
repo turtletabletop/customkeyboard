@@ -95,4 +95,12 @@ Hey! so it's my exam day so I don't have a lecture to go to for today which is k
 
 as of right now, I've been checking the edges of all the parts to make sure that they work well and adjusting them if they don't fit the shape I want
 
-I also figured out how to make better holes for the screws that I'll be receiving with the kit
+<img width="1336" height="799" alt="image" src="https://github.com/user-attachments/assets/d0642113-5d6e-46f5-bbfb-620b49446ab9" />
+
+*the edges i've been fixing*
+I also figured out how to make better holes for the screws that I'll be receiving with the kit (don't extrude your holes with the 'plates' in order to adjust the length accordingly) also added an extra screw because I thought it wasn't enough
+
+<img width="1643" height="1126" alt="image" src="https://github.com/user-attachments/assets/104bda41-114e-4abb-a356-b932ecac51d0" />
+
+*added 5 screw holes into the case*
+
