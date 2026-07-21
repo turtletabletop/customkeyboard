@@ -96,7 +96,11 @@ i found this mounting plate site during my math lecture: https://builder-docs.sw
 
 so like it turns out i don't actually need the screws in the pcb so darn.
 
-i figured out how to put the pcb in onshape that so it actually runs in onshape wahoo
+i figured out how to put the pcb in onshape that so it actually runs in onshape wahoo (why did this take forever)
+
+<img width="1477" height="900" alt="image" src="https://github.com/user-attachments/assets/1f30b4c6-8d7e-4f7c-9a2f-d2b7e41ca81f" />
+
+first actual iteration of the board! also i colored it purple later
 
 ## Day 4 (July 21, 2026) (~5 hours)
 Hey! so it's my exam day so I don't have a lecture to go to for today which is kind of great because I can do more things and also my violin lesson was moved to another day this week so that's great
