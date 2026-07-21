@@ -115,4 +115,10 @@ I also figured out how to make better holes for the screws that I'll be receivin
 
 update: removed the screw in the middle of the case because it collided with the pcb 
 
+<img width="1360" height="900" alt="image" src="https://github.com/user-attachments/assets/31c46d9a-96b3-45e0-b2ae-13d46f0818bc" />
 
+and also i added a usb-c cutout!
+
+<img width="1153" height="900" alt="image" src="https://github.com/user-attachments/assets/d52dde07-2133-4c1d-a1a5-46ef2fbb2ec9" />
+
+also i added more decals to my board!
