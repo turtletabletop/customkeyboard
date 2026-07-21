@@ -88,3 +88,11 @@ edit: this before the next link- https://www.keyboard-layout-editor.com/#/
 i found this mounting plate site during my math lecture: https://builder-docs.swillkb.com/
 
 so like it turns out i don't actually need the screws in the pcb so darn.
+
+
+## Day 4 (July 21, 2026)
+Hey! so it's my exam day so I don't have a lecture to go to for today which is kind of great because I can do more things and also my violin lesson was moved to another day this week so that's great
+
+as of right now, I've been checking the edges of all the parts to make sure that they work well and adjusting them if they don't fit the shape I want
+
+I also figured out how to make better holes for the screws that I'll be receiving with the kit
