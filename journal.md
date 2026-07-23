@@ -127,7 +127,7 @@ and also i added a usb-c cutout!
 
 also i added more decals to my board!
 
-## day 5 (July 22, 2026) (~3.5hr)
+## day 5 (July 22, 2026) (~4hr)
 I have no idea what i'm doing but i was able to get qmk setup with a lot of patience and waiting for files to load, and now i have a rudimentary firmware to push
 
 <img width="954" height="1184" alt="image" src="https://github.com/user-attachments/assets/083f4c6a-f5c2-4fce-b1a3-da9ed8bd3fb3" />
@@ -145,3 +145,6 @@ also about resizing my pcb, i had to completely redo the case. thankfully, i've 
 <img width="1007" height="873" alt="image" src="https://github.com/user-attachments/assets/38f0ea79-db74-4d27-bdbd-0b567516b328" />
 
 *the new simplified case*
+
+i also added graphics to the back that nobody will see! yippee 
+<img width="804" height="776" alt="image" src="https://github.com/user-attachments/assets/b042c7e5-1a65-4052-bfac-0a8ccd2c95be" />
