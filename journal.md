@@ -127,9 +127,21 @@ and also i added a usb-c cutout!
 
 also i added more decals to my board!
 
-## day 5 (July 22, 2026) (~45 min)
+## day 5 (July 22, 2026) (~3.5hr)
 I have no idea what i'm doing but i was able to get qmk setup with a lot of patience and waiting for files to load, and now i have a rudimentary firmware to push
 
 <img width="954" height="1184" alt="image" src="https://github.com/user-attachments/assets/083f4c6a-f5c2-4fce-b1a3-da9ed8bd3fb3" />
 <img width="838" height="1238" alt="image" src="https://github.com/user-attachments/assets/47c5a925-b59a-4467-a50a-930025f5b618" />
 
+holy freaking sheet basically went through the pricing for the macroboard and found out that i sized my pcb wrong so i was getting a much higher quote at jlcpcb than what i was actually supposed to get, so i had to redo the edge cuts for the pcb
+
+<img width="949" height="950" alt="image" src="https://github.com/user-attachments/assets/71e2734a-e9cf-460f-ba00-90fe9acd0311" />
+
+*the new square rather than rectangle pcb*
+
+i was also worried about the clear part of my mounting board so i found out that jlcpcb also 3d prints resin parts so hopefully i can use their services because it was pretty cheap from what i saw
+
+also about resizing my pcb, i had to completely redo the case. thankfully, i've learned from my past experiences and actually know what i want. basically i was walking blind through my case last time which helped me know a lot about what i needed for my case this time, and decided to simplify it a ton more because the case was pretty complicated last time. also i know how to simplify the pcb so that it actually runs on my onshape this time :)
+<img width="1007" height="873" alt="image" src="https://github.com/user-attachments/assets/38f0ea79-db74-4d27-bdbd-0b567516b328" />
+
+*the new simplified case*
