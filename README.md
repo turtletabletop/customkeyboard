@@ -26,7 +26,7 @@ The entire PCB was made in KiCad! Note that I used [ScottoKeeb's KiCad library](
 
 *without filled zones*
 
-<img width="866" height="852" alt="image" src="https://github.com/user-attachments/assets/8d8a7728-b057-4fdd-828b-a004fcbde07c" />
+<img width="433" height="426" alt="image" src="https://github.com/user-attachments/assets/8d8a7728-b057-4fdd-828b-a004fcbde07c" />
 
 *with filled zones*
 
