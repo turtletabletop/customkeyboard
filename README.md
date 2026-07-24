@@ -2,7 +2,7 @@
 
 Hey everyone! This is my submission for [Hackpad V5](https://hackpad.hackclub.com/), a YSWS program in [Hack Club](https://hackclub.com/).
 
-This macropad is a custom-built 3x5 ortholinear keyboard with a small OLED display. It uses Kailh Hot Swap Sockets, so it supports a variety of MX-style switches, and uses QMK firmware. It's intended to mimic the Sky: Children of the Light digital music pad in-game.
+This macropad is a custom-built 3x5 ortholinear hot-swappable keyboard built off of the Seeed Studio XIAO RP2040 with a small OLED display. It uses Kailh Hot Swap Sockets, so it supports a variety of MX-style switches and uses QMK firmware. It's intended to mimic the Sky: Children of the Light digital music pad in-game.
 
 ## Features
 - 15 programmable keys
