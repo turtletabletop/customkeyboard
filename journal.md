@@ -152,3 +152,7 @@ i also added graphics to the back that nobody will see! yippee
 ## day 6 (July 23, 2026) (couple of hours?)
 
 tooooday's shipping day! I have 90% of the stuff ready i just need to upload everything onto this github and submit the form. Currently i've just been working through tiny issues here and there that i can see are problems
+
+omg the case looks nice (as expected :)))) )
+<img width="1564" height="1169" alt="image" src="https://github.com/user-attachments/assets/a2370495-76f3-44d9-b23c-47d055f3099f" />
+
