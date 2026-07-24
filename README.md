@@ -22,7 +22,7 @@ Note that the mounting plate is intended to be fully transparent and made of acr
 ## PCB
 The entire PCB was made in KiCad! Note that I used [ScottoKeeb's KiCad library](https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoKicad) for the footprints and symbols because I was following [his guide](https://youtu.be/8WXpGTIbxlQ?). I had a lot of fun adding the silkscreen art for this; I just ripped a bunch of pictures from indie games I love + SkyCOTL. First time making a PCB! 
 
-<img width="869" height="867" alt="image" src="https://github.com/user-attachments/assets/db6c49d4-12f8-4caf-9c0b-79bf02c050e9" />
+<img width="434.5" height="433.5" alt="image" src="https://github.com/user-attachments/assets/db6c49d4-12f8-4caf-9c0b-79bf02c050e9" />
 
 *without filled zones*
 
