@@ -15,14 +15,14 @@
         "rows": ["GP9", "GP8", "GP7"]
     },
     "processor": "RP2040",
-    "url": "",
+    "url": "https://github.com/turtletabletop/3x5macropad",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",
         "vid": "0xFEED"
     },
     "layouts": {
-        "LAYOUT_ortho_5x3": {
+        "LAYOUT": {
             "layout": [
                 {"matrix": [0, 0], "x": 0, "y": 0},
                 {"matrix": [0, 1], "x": 1, "y": 0},
