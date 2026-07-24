@@ -54,3 +54,9 @@ dunno what to say here honestly just copied skottokeeb's guide for the most part
 - 4x M3x16mm SHCS Bolts
 - 4x M3x5x4 Heatset inserts
 - 1x 0.91" 128x32 OLED Display
+
+### Inspiration:
+This was mainly inspired by Sky: Children of the Light's in-game music pad. When you play an instrument in-game, a 3x5 tiled grid shows up where you can press each tile to play a musical note.
+
+<img width="674" height="296" alt="image" src="https://github.com/user-attachments/assets/84a4a0bf-2314-46ac-b0cc-50775b08952b" />
+
