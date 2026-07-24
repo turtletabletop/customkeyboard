@@ -148,3 +148,7 @@ also about resizing my pcb, i had to completely redo the case. thankfully, i've 
 
 i also added graphics to the back that nobody will see! yippee 
 <img width="804" height="776" alt="image" src="https://github.com/user-attachments/assets/b042c7e5-1a65-4052-bfac-0a8ccd2c95be" />
+
+## day 6 (July 23, 2026) (couple of hours?)
+
+tooooday's shipping day! I have 90% of the stuff ready i just need to upload everything onto this github and submit the form. Currently i've just been working through tiny issues here and there that i can see are problems
